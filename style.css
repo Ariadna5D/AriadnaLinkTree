@@ -110,6 +110,7 @@ header button {
 
 header button:hover {
     background-color: var(--color-boton-hover);
+    cursor: pointer;
 }
 
 header button:active {
@@ -187,6 +188,7 @@ p{
     background-color: var(--color-linkbox-hover);
     color: var(--color-texto-linkbox-hover);
     border-color: var(--color-imagen-borde);
+    cursor: pointer;
 }
 
 .linkBox.hover p{
